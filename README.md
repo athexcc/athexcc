@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, Athex here
+- 💼 Recent Positions
+    Administrator & Team Management @ **analystic.de**
+    Detection Team @ **napse.ac**
+    Staff & Networking @ **anticheat.ac**
+    Senior PC Checker @ **stormss.cc**
+- 🌍 Website [here](https://athexcc.xyz)
+- 📫 Contact: @62cx
 
-<!--
-**athexcc/athexcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+[![Discord Presence](https://lanyard.cnrad.dev/api/917920253902741546?bg=000000&theme=dark&hideSpotify=true&hideActivity=true)](https://discord.com/users/917920253902741546)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://athexcc.xyz">
+<img src="https://github-readme-stats.vercel.app/api?username=athexcc&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athexcc&layout=compact&theme=dark" />
+  </a>
