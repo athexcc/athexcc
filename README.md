@@ -1,9 +1,9 @@
 Hi, Athex here
 - 💼 Recent Positions
-    Administrator & Team Management @ **analystic.de**
-    Detection Team @ **napse.ac**
-    Staff & Networking @ **anticheat.ac**
-    Senior PC Checker @ **stormss.cc**
+    - Administrator & Team Management @ **analystic.de**
+    - Detection Team @ **napse.ac**
+    - Staff & Networking @ **anticheat.ac**
+    - Senior PC Checker @ **stormss.cc**
 - 🌍 Website [here](https://athexcc.xyz)
 - 📫 Contact: @62cx
 
